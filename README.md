@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @Gesilvinha
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### boas vindas ao meu perfil 💙
 
-<!---
-Gesilvinha/Gesilvinha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ MEU NOME É GE SILVA
+
+ - Estou estudando no [alura](https:\\www.alura.com.br)
+ - Estou me desenvolvendo na linguagem de Javascript
+ - Utilizo esse espaço para minha organizaçao e compartilhamento dos meus projetos desenvolvidos
+
+### voce entrar em contato comigo 📫
+
+00001073837737sp@al.educacao.sp.gov.br
+
+
+![](https://media1.tenor.com/m/L9TH3SB7chkAAAAd/maymun-mordeus.gif) 
